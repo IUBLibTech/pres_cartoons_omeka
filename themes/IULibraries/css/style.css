@@ -84,7 +84,7 @@ a {
  */
 a:active,
 a:hover {
-  outline: 0; }
+    outline: 0; }
 
 /* Text-level semantics
    ========================================================================== */
@@ -1496,12 +1496,13 @@ th {
   header {
    :: border-color: #000; }
   a:link {
-    color: #585858; }
+    color: #585858;
+    text-decoration: underline; }
   a:visited {
     color: #999; }
   a:hover {
     color: #777; 
-  /*  background-color: #ccc; */ }
+  }
 #exhibit-pages > ul > li > a:active {
 	color #777;}
   a:active {
@@ -1583,9 +1584,12 @@ th {
         background-color: #fff; }
       #primary-nav li ul li ul li {
         background-color: #fff; }
+    #primary-nav a {
+      text-decoration: none;}
     #primary-nav a:hover {
-      font-weight: bold; 
-	background-color: #ccc;}
+    font-weight: bold; 
+	  background-color: #ccc;
+    text-decoration: none;}
   #search-container {
     margin: 24px 0; }
   #search-form {
