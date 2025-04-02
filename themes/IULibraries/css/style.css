@@ -948,7 +948,8 @@ th {
       position: relative; }
     #primary-nav ul.navigation .sub-nav-toggle:after,
     #primary-nav ul.navigation [aria-haspopup="true"]:after {
-      font-family: "FontAwesome";
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
       content: "\f055";
       font-size: 14px;
       float: right;
@@ -1105,7 +1106,8 @@ th {
     border-top: 1px solid #ccc;
     clear: both; }
   .desc a:after, .asc a:after {
-    font-family: "FontAwesome";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
     display: inline-block; }
   .desc a:after {
     content: "\00a0\f0d8"; }
@@ -1208,7 +1210,7 @@ th {
       #search-container button#submit_search:after {
         font-family: "Font Awesome 5 Free";
         content: "\f002";
-	font-weight: 900;
+	      font-weight: 900;
 	background-color: #000 !important;
         text-indent: 0;
         position: absolute;
@@ -1703,7 +1705,8 @@ th {
     clear: none; }
     #advanced-search-form .field .remove_search:after {
       content: "\f00d";
-      font-family: "FontAwesome";
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
       text-indent: 0;
       text-align: center;
       width: 100%;
