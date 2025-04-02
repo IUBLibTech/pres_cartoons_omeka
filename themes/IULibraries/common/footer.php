@@ -10,7 +10,7 @@
 	   <ul>
 	   <li>
 	   <a href="https://libraries.indiana.edu" class="footerlib-icon">
-		<img src="/presidentialcartoons/themes/IULibraries/images/lockup.png" width="200px" height>
+		<img alt="IU Libraries" src="/presidentialcartoons/themes/IULibraries/images/lockup.png" width="200px" height>
 	   </a>
 	   </li>
 	   <li id="footerlib-contact">
@@ -34,7 +34,7 @@
 	   <div>
 		   <div class="invert border">
             <ul class="social">
-				<li style=""  ><a href="https://libraries.indiana.edu/help#" ><button class="buttonlib">Need Help?</button></a></li>
+				<li style=""  ><a href="https://libraries.indiana.edu/help#"><button class="buttonlib">Need Help?</button></a></li>
                       <li class="first">
           <a href="https://twitter.com/iulibraries" target="_self" class="icon-twitter external" title="IU Libraries on Twitter">Twitter</a>
                 </li>
