@@ -34,7 +34,7 @@
 	   <div>
 		   <div class="invert border">
             <ul class="social">
-				<li style=""  ><a href="https://libraries.indiana.edu/help#"><button class="buttonlib">Need Help?</button></a></li>
+				<li style=""  ><button class="buttonlib">Need Help?</button></a></li>
                       <li class="first">
           <a href="https://twitter.com/iulibraries" target="_self" class="icon-twitter external" title="IU Libraries on Twitter">Twitter</a>
                 </li>
