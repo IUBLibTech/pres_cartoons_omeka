@@ -996,7 +996,7 @@ th {
       display: block;
       float: left;
       margin: 12px 10px 12px 0;
-	overflow-y: hidden; }
+	overflow-y: visible; }
     .pagination input[type=text] {
       width: 3em;
       margin-right: 5px;
